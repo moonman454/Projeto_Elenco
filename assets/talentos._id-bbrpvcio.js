@@ -1,0 +1,1 @@
+import{j as o,L as e}from"./index-BxvqvPvK.js";const n=()=>o.jsxs("div",{style:{textAlign:"center",padding:"64px 1rem"},children:[o.jsx("h2",{style:{color:"#374151"},children:"Talento não encontrado"}),o.jsx(e,{to:"/talentos",style:{color:"#dc2626"},children:"← Voltar ao elenco"})]});export{n as errorComponent};

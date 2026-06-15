@@ -1,0 +1,1 @@
+import{j as n,L as r}from"./index-BxvqvPvK.js";const e=()=>n.jsxs("div",{style:{textAlign:"center",padding:"64px 1rem"},children:[n.jsx("h2",{children:"Agência não encontrada"}),n.jsx(r,{to:"/agencias",style:{color:"#dc2626"},children:"← Voltar às agências"})]});export{e as errorComponent};

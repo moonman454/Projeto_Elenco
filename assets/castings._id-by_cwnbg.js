@@ -1,0 +1,1 @@
+import{j as n,L as o}from"./index-BxvqvPvK.js";const t=()=>n.jsxs("div",{style:{textAlign:"center",padding:"64px 1rem"},children:[n.jsx("h2",{children:"Casting não encontrado"}),n.jsx(o,{to:"/castings",style:{color:"#dc2626"},children:"← Voltar"})]});export{t as errorComponent};

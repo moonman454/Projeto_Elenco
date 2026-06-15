@@ -1,0 +1,1 @@
+import{j as r,L as o}from"./index-BxvqvPvK.js";const t=()=>r.jsxs("div",{style:{textAlign:"center",padding:"64px 1rem"},children:[r.jsx("h2",{children:"Diretor não encontrado"}),r.jsx(o,{to:"/diretores",style:{color:"#dc2626"},children:"← Voltar"})]});export{t as errorComponent};
